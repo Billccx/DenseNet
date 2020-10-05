@@ -29,4 +29,4 @@ After 50 epochs, the best accuracy on testset is 90.34% and average loss is 0.31
 
 the Accuracy-Epoch graph is as follows
 
-![](result/1.png)
+![](support/result.png)
