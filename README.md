@@ -22,3 +22,11 @@ numpy1.16.5
 you should use your own filepath
 
 3、run main.py
+
+# Result
+
+After 50 epochs, the best accuracy on testset is 90.34% and average loss is 0.3153.
+
+the Accuracy-Epoch graph is as follows
+
+![](result/1.png)
