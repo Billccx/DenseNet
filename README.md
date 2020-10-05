@@ -15,6 +15,10 @@ numpy1.16.5
 
 2、Change the source code of cifar.py
 
-![you shou use your own address](https://github.com/Billccx/DenseNet/blob/master/1.png)
+
+![](support/1.png)
+
+
+you should use your own filepath
 
 3、run main.py
